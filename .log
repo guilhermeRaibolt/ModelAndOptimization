@@ -253,3 +253,22 @@ Please also refer to the documentation for alternative solver options:
 2023-08-02 12:41:04,558 [4624] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guief\anaconda3\lib\site-packages\sklearn\model_selection\_search.py:969: UserWarning: One or more of the test scores are non-finite: [nan nan nan]
   warnings.warn(
 
+2023-08-08 14:51:52,545 [8984] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-08 14:51:52,546 [8984] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-08 14:51:52,546 [8984] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-08 14:51:52,550 [8984] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-08 14:51:52,552 [8984] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-08 14:51:52,553 [8984] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-08-08 14:51:53,363 [8984] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-08 14:51:53,363 [8984] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-08 14:51:53,364 [8984] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-08 14:51:53,369 [8984] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-08 14:51:53,370 [8984] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-08 14:51:53,371 [8984] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-08-08 15:03:20,135 [8984] INFO     numexpr.utils:160: [JupyterRequire] NumExpr defaulting to 4 threads.
+2023-08-08 15:07:38,488 [8984] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-08 15:07:38,489 [8984] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-08 15:07:38,489 [8984] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-08 15:07:38,504 [8984] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-08 15:07:38,506 [8984] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-08 15:07:38,507 [8984] DEBUG    root:97: [JupyterRequire] Registering comm targets.
