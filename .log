@@ -321,3 +321,68 @@ Please also refer to the documentation for alternative solver options:
 2023-08-09 14:54:21,784 [13588] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2023-08-09 14:54:21,785 [13588] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2023-08-09 14:54:21,786 [13588] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-08-09 15:01:03,042 [13588] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-09 15:01:03,043 [13588] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-09 15:01:03,043 [13588] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-09 15:01:03,048 [13588] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-09 15:01:03,052 [13588] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-09 15:01:03,053 [13588] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-08-09 15:13:32,572 [13588] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-09 15:13:32,574 [13588] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-09 15:13:32,575 [13588] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-09 15:13:32,679 [13588] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-09 15:13:32,901 [13588] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-09 15:13:32,903 [13588] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-08-09 15:55:03,243 [13588] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-09 15:55:03,244 [13588] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-09 15:55:03,245 [13588] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-09 15:55:03,254 [13588] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-09 15:55:03,256 [13588] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-09 15:55:03,258 [13588] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-08-09 16:38:24,647 [9440] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-09 16:38:24,648 [9440] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-09 16:38:24,648 [9440] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-09 16:38:24,651 [9440] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-09 16:38:24,652 [9440] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-09 16:38:24,653 [9440] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-08-09 16:38:26,044 [9440] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-09 16:38:26,045 [9440] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-09 16:38:26,045 [9440] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-09 16:38:26,049 [9440] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-09 16:38:26,055 [9440] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-09 16:38:26,056 [9440] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-08-09 16:39:42,391 [9440] INFO     numexpr.utils:160: [JupyterRequire] NumExpr defaulting to 4 threads.
+2023-08-09 16:40:10,876 [9440] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guilherme.efgen\Anaconda3\lib\site-packages\sklearn\neighbors\_classification.py:228: FutureWarning: Unlike other reduction functions (e.g. `skew`, `kurtosis`), the default behavior of `mode` typically preserves the axis it acts along. In SciPy 1.11.0, this behavior will change: the default value of `keepdims` will become False, the `axis` over which the statistic is taken will be eliminated, and the value None will no longer be accepted. Set `keepdims` to True or False to avoid this warning.
+  mode, _ = stats.mode(_y[neigh_ind, k], axis=1)
+
+2023-08-09 16:47:07,752 [9440] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guilherme.efgen\Anaconda3\lib\site-packages\sklearn\neighbors\_classification.py:228: FutureWarning: Unlike other reduction functions (e.g. `skew`, `kurtosis`), the default behavior of `mode` typically preserves the axis it acts along. In SciPy 1.11.0, this behavior will change: the default value of `keepdims` will become False, the `axis` over which the statistic is taken will be eliminated, and the value None will no longer be accepted. Set `keepdims` to True or False to avoid this warning.
+  mode, _ = stats.mode(_y[neigh_ind, k], axis=1)
+
+2023-08-09 16:50:46,824 [13588] INFO     numexpr.utils:160: [JupyterRequire] NumExpr defaulting to 4 threads.
+2023-08-09 16:50:52,840 [9440] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guilherme.efgen\Anaconda3\lib\site-packages\sklearn\neighbors\_classification.py:228: FutureWarning: Unlike other reduction functions (e.g. `skew`, `kurtosis`), the default behavior of `mode` typically preserves the axis it acts along. In SciPy 1.11.0, this behavior will change: the default value of `keepdims` will become False, the `axis` over which the statistic is taken will be eliminated, and the value None will no longer be accepted. Set `keepdims` to True or False to avoid this warning.
+  mode, _ = stats.mode(_y[neigh_ind, k], axis=1)
+
+2023-08-09 16:52:12,011 [9440] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guilherme.efgen\Anaconda3\lib\site-packages\sklearn\neighbors\_classification.py:228: FutureWarning: Unlike other reduction functions (e.g. `skew`, `kurtosis`), the default behavior of `mode` typically preserves the axis it acts along. In SciPy 1.11.0, this behavior will change: the default value of `keepdims` will become False, the `axis` over which the statistic is taken will be eliminated, and the value None will no longer be accepted. Set `keepdims` to True or False to avoid this warning.
+  mode, _ = stats.mode(_y[neigh_ind, k], axis=1)
+
+2023-08-09 16:53:00,703 [9440] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guilherme.efgen\Anaconda3\lib\site-packages\sklearn\neighbors\_classification.py:228: FutureWarning: Unlike other reduction functions (e.g. `skew`, `kurtosis`), the default behavior of `mode` typically preserves the axis it acts along. In SciPy 1.11.0, this behavior will change: the default value of `keepdims` will become False, the `axis` over which the statistic is taken will be eliminated, and the value None will no longer be accepted. Set `keepdims` to True or False to avoid this warning.
+  mode, _ = stats.mode(_y[neigh_ind, k], axis=1)
+
+2023-08-09 16:55:24,168 [9440] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guilherme.efgen\Anaconda3\lib\site-packages\sklearn\neighbors\_classification.py:228: FutureWarning: Unlike other reduction functions (e.g. `skew`, `kurtosis`), the default behavior of `mode` typically preserves the axis it acts along. In SciPy 1.11.0, this behavior will change: the default value of `keepdims` will become False, the `axis` over which the statistic is taken will be eliminated, and the value None will no longer be accepted. Set `keepdims` to True or False to avoid this warning.
+  mode, _ = stats.mode(_y[neigh_ind, k], axis=1)
+
+2023-08-09 16:57:49,447 [9440] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guilherme.efgen\Anaconda3\lib\site-packages\sklearn\neighbors\_classification.py:228: FutureWarning: Unlike other reduction functions (e.g. `skew`, `kurtosis`), the default behavior of `mode` typically preserves the axis it acts along. In SciPy 1.11.0, this behavior will change: the default value of `keepdims` will become False, the `axis` over which the statistic is taken will be eliminated, and the value None will no longer be accepted. Set `keepdims` to True or False to avoid this warning.
+  mode, _ = stats.mode(_y[neigh_ind, k], axis=1)
+
+2023-08-09 16:59:21,480 [9440] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guilherme.efgen\Anaconda3\lib\site-packages\sklearn\neighbors\_classification.py:228: FutureWarning: Unlike other reduction functions (e.g. `skew`, `kurtosis`), the default behavior of `mode` typically preserves the axis it acts along. In SciPy 1.11.0, this behavior will change: the default value of `keepdims` will become False, the `axis` over which the statistic is taken will be eliminated, and the value None will no longer be accepted. Set `keepdims` to True or False to avoid this warning.
+  mode, _ = stats.mode(_y[neigh_ind, k], axis=1)
+
+2023-08-09 17:00:39,628 [9440] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guilherme.efgen\Anaconda3\lib\site-packages\sklearn\neighbors\_classification.py:228: FutureWarning: Unlike other reduction functions (e.g. `skew`, `kurtosis`), the default behavior of `mode` typically preserves the axis it acts along. In SciPy 1.11.0, this behavior will change: the default value of `keepdims` will become False, the `axis` over which the statistic is taken will be eliminated, and the value None will no longer be accepted. Set `keepdims` to True or False to avoid this warning.
+  mode, _ = stats.mode(_y[neigh_ind, k], axis=1)
+
+2023-08-09 17:02:39,409 [9440] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guilherme.efgen\Anaconda3\lib\site-packages\sklearn\neighbors\_classification.py:228: FutureWarning: Unlike other reduction functions (e.g. `skew`, `kurtosis`), the default behavior of `mode` typically preserves the axis it acts along. In SciPy 1.11.0, this behavior will change: the default value of `keepdims` will become False, the `axis` over which the statistic is taken will be eliminated, and the value None will no longer be accepted. Set `keepdims` to True or False to avoid this warning.
+  mode, _ = stats.mode(_y[neigh_ind, k], axis=1)
+
+2023-08-09 17:09:42,171 [9440] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guilherme.efgen\Anaconda3\lib\site-packages\sklearn\neighbors\_classification.py:228: FutureWarning: Unlike other reduction functions (e.g. `skew`, `kurtosis`), the default behavior of `mode` typically preserves the axis it acts along. In SciPy 1.11.0, this behavior will change: the default value of `keepdims` will become False, the `axis` over which the statistic is taken will be eliminated, and the value None will no longer be accepted. Set `keepdims` to True or False to avoid this warning.
+  mode, _ = stats.mode(_y[neigh_ind, k], axis=1)
+
