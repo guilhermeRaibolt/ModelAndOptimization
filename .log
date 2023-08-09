@@ -309,3 +309,15 @@ Please also refer to the documentation for alternative solver options:
 2023-08-09 10:46:04,464 [2952] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2023-08-09 10:46:04,465 [2952] DEBUG    root:97: [JupyterRequire] Registering comm targets.
 2023-08-09 10:50:47,052 [1520] INFO     numexpr.utils:159: [JupyterRequire] NumExpr defaulting to 4 threads.
+2023-08-09 10:56:39,078 [1520] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-09 10:56:39,079 [1520] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-09 10:56:39,079 [1520] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-09 10:56:39,082 [1520] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-09 10:56:39,083 [1520] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-09 10:56:39,083 [1520] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-08-09 10:58:54,095 [2952] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-09 10:58:54,096 [2952] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-09 10:58:54,096 [2952] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-09 10:58:54,099 [2952] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-09 10:58:54,100 [2952] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-09 10:58:54,101 [2952] DEBUG    root:97: [JupyterRequire] Registering comm targets.
