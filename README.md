@@ -10,7 +10,7 @@ The key steps of this class are as follows:
 The class accepts a list of models and their respective hyperparameter grids. It then performs a standard fitting process for each model using the provided dataset. The primary evaluation metric (scoring) can be specified by the developer (e.g., accuracy, ROC AUC, precision, mean absolute error).
 
 ### 2. Top Model Selection
-Following the model fitting stage, the class ranks the models based on their scores and selects the top N models, where N is determined by the developer. This ensures that the subsequent hyperparameter tuning is focused on the most promising models.
+Following the model fitting stage, the class ranks the models based on their scores and selects the top N models, where N is determined by the developer. This ensures that the subsequent hyperparameter tuning is focused on the most promising models. This step is done without Cross Validation, seeking a better performance. The following steps will use CV
 
 ### 3. Hyperparameter Optimization
 For the selected top models, the class applies grid search to explore various hyperparameter combinations. The best hyperparameters are chosen for each model, and the corresponding scores are recorded. You may select grid, random or bayesian as search methods
