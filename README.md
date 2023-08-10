@@ -22,3 +22,8 @@ The class provides insights into the model rankings based on their scores post h
 - **Computational Cost:** Grid search is applied exclusively to the top N models to manage computational resources efficiently.
 - **Developer Input:** Developers must supply the models list, hyperparameter grids, and desired evaluation metric. The class does not perform automated feature selection or data preprocessing.
 - **Model Dependencies:** Ensure that the necessary dependencies for the selected models are installed. This class assumes access to models and their associated methods for fitting and prediction. 
+
+
+
+
+To be done: ensembling, performance visualization, 
