@@ -399,3 +399,46 @@ Please also refer to the documentation for alternative solver options:
 2023-08-10 16:34:06,291 [3780] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2023-08-10 16:34:06,292 [3780] DEBUG    root:97: [JupyterRequire] Registering comm targets.
 2023-08-10 17:04:37,787 [3780] INFO     numexpr.utils:160: [JupyterRequire] NumExpr defaulting to 4 threads.
+2023-08-11 09:55:32,541 [10568] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-11 09:55:32,541 [10568] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-11 09:55:32,542 [10568] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-11 09:55:32,544 [10568] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-11 09:55:32,544 [10568] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-11 09:55:32,545 [10568] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-08-11 09:55:33,070 [10568] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-11 09:55:33,070 [10568] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-11 09:55:33,070 [10568] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-11 09:55:33,075 [10568] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-11 09:55:33,076 [10568] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-11 09:55:33,077 [10568] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-08-11 10:00:37,217 [10568] INFO     numexpr.utils:159: [JupyterRequire] NumExpr defaulting to 4 threads.
+2023-08-11 10:31:01,579 [10568] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guief\anaconda3\lib\site-packages\sklearn\model_selection\_search.py:292: UserWarning: The total space of parameters 3 is smaller than n_iter=10. Running 3 iterations. For exhaustive searches, use GridSearchCV.
+  warnings.warn(
+
+2023-08-11 10:31:02,197 [10568] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guief\anaconda3\lib\site-packages\sklearn\model_selection\_search.py:292: UserWarning: The total space of parameters 9 is smaller than n_iter=10. Running 9 iterations. For exhaustive searches, use GridSearchCV.
+  warnings.warn(
+
+2023-08-11 10:31:05,020 [10568] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guief\anaconda3\lib\site-packages\sklearn\model_selection\_search.py:292: UserWarning: The total space of parameters 9 is smaller than n_iter=10. Running 9 iterations. For exhaustive searches, use GridSearchCV.
+  warnings.warn(
+
+2023-08-11 10:32:18,205 [10568] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guief\anaconda3\lib\site-packages\sklearn\model_selection\_search.py:292: UserWarning: The total space of parameters 3 is smaller than n_iter=10. Running 3 iterations. For exhaustive searches, use GridSearchCV.
+  warnings.warn(
+
+2023-08-11 10:32:18,564 [10568] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guief\anaconda3\lib\site-packages\sklearn\model_selection\_search.py:292: UserWarning: The total space of parameters 9 is smaller than n_iter=10. Running 9 iterations. For exhaustive searches, use GridSearchCV.
+  warnings.warn(
+
+2023-08-11 10:32:20,864 [10568] WARNING  py.warnings:109: [JupyterRequire] C:\Users\guief\anaconda3\lib\site-packages\sklearn\model_selection\_search.py:292: UserWarning: The total space of parameters 9 is smaller than n_iter=10. Running 9 iterations. For exhaustive searches, use GridSearchCV.
+  warnings.warn(
+
+2023-08-11 20:28:26,614 [10872] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-11 20:28:26,614 [10872] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-11 20:28:26,614 [10872] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-11 20:28:26,617 [10872] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-11 20:28:26,618 [10872] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-11 20:28:26,618 [10872] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-08-11 20:28:27,151 [10872] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-11 20:28:27,152 [10872] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-11 20:28:27,152 [10872] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-11 20:28:27,155 [10872] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-11 20:28:27,155 [10872] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-11 20:28:27,156 [10872] DEBUG    root:97: [JupyterRequire] Registering comm targets.
